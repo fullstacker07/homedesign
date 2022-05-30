@@ -1,0 +1,170 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.modernhome {
+  height: 100vh;
+}
+.modernhome h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 25px;
+}
+.modernhome_home {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100vh;
+}
+.modernhome_container {
+  width: 50%;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.modernhome_container img {
+  width: 55px;
+  background-color: black;
+  border-radius: 50%;
+}
+.modernhome_item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+.modernhome_item h3 {
+  font-family: cursive;
+}
+
+.ketchen {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ketchen img {
+  width: 500px;
+}
+
+.sal {
+  width: 200px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+}
+.sal_is {
+  width: 50px;
+  height: 50px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border: 1px solid #cdcd02;
+  color: #cdcd02;
+  font-size: 30px;
+}
+.sal_is:hover {
+  background-color: yellow;
+  border: 1px solid yellow;
+  transition: all 0.7s;
+  color: #000000;
+}
+.sal_as {
+  width: 50px;
+  height: 50px;
+  color: #cdcd02;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border: 1px solid #c8c805;
+  font-size: 30px;
+}
+.sal_as:hover {
+  background-color: yellow;
+  border: 1px solid yellow;
+  transition: all 0.7s;
+  color: black;
+}
+
+.Sherzod_aken-qildi {
+  height: 100vh;
+}
+
+.Sherzod_aken-qildi_2 {
+  margin-top: 200px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.quvonch_2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 100px;
+}
+.quvonch_2_3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.quvonch_2_5 {
+  width: 30px;
+  height: 30px;
+  background-color: #ffff00;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.quvonch_2_5:hover {
+  background-color: #cdcd02;
+  transition: all 0.7s;
+}
+.quvonch_2_8 {
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.quvonch_2_4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.quvonch_2_6 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.quvonch_2_7 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.quvonch_2 img {
+  width: 300px;
+  height: 300px;
+  margin: 10px;
+}
+
+.quvonch_9 {
+  margin: 10px;
+}
+.quvonch_9 p {
+  text-align: center;
+  margin: 10px;
+}
+
+.quvonch_l {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 100px;
+}
+
+/*# sourceMappingURL=Modern%20Home.css.map */
